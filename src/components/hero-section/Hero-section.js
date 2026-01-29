@@ -479,7 +479,7 @@ export default function Hero(){
                                     </div>
                                 </div>
                                 <div className="flex justify-center sm:justify-end">
-                                    <Link href={'/RoboRover'}>
+                                    <Link href={'/ProjectExpo'}>
                                         <div className="flex flex-row z-40 sm:m-5 font-bold items-center">
                                             <svg width="79.5" height="18.5" viewBox="0 0 159 37" fill="none" xmlns="http://www.w3.org/2000/svg">
                                             <path d="M157.768 20.1774C158.744 19.2011 158.744 17.6182 157.768 16.6419L141.858 0.731998C140.882 -0.244312 139.299 -0.244312 138.322 0.731998C137.346 1.70831 137.346 3.29122 138.322 4.26753L152.464 18.4097L138.322 32.5518C137.346 33.5281 137.346 35.111 138.322 36.0873C139.299 37.0636 140.882 37.0636 141.858 36.0873L157.768 20.1774ZM0 18.4097V20.9097H156V18.4097V15.9097H0V18.4097Z" fill="white"/>
