@@ -2,6 +2,9 @@ import Image from "next/image";
 import Link from "next/link";
 
 export default function TeamMember({ member }) {
+    if (!member) {
+        return null; // or <div className="animate-pulse">Loading...</div>
+    }
     const baseDiv =
         "flex justify-between bg-[url(/card-bg.png)] bg-cover text-white p-4 sm:p-5 rounded-lg shadow-lg hover:shadow-xl hover:scale-105 transition-all duration-300";
 
