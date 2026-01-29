@@ -1,0 +1,202 @@
+{
+    "Core Committee": [
+        {
+            "name": "Nallagari Thishan Reddy",
+            "position": "President",
+            "linkedin": "https://www.linkedin.com/in/thishan-reddy-23636728a/",
+            "photo": "/imgs/thishan.png"
+        },
+        {
+            "name": "Peesari Sathvik Reddy",
+            "position": "Vice President",
+            "linkedin": "https://www.linkedin.com/in/peesari-sathvik-reddy-881967322/",
+            "photo": "/imgs/sathvik.png"
+        },
+        {
+            "name": "Sai Rithwik Vinnakota",
+            "position": "Vice President",
+            "linkedin": "https://www.linkedin.com/in/rithwik-vinnakota-532086323/",
+            "photo": "/imgs/rithwik-vp.png"
+        },
+        {
+            "name": "Preethi Madhavan",
+            "position": "Joint Secretary",
+            "linkedin": "https://www.linkedin.com/in/preethi-madhavan-432455286/",
+            "photo": "/imgs/preethi.png"
+        },
+        {
+            "name": "Achanta Badrinath",
+            "position": "General Secretary",
+            "linkedin": "https://www.linkedin.com/in/achanta-badrinath-34490a285/",
+            "photo": "/imgs/badri.png"
+        },
+        {
+            "name": "Dendi Pruthika Reddy",
+            "position": "Treasurer",
+            "linkedin": "https://www.linkedin.com/in/pruthika-reddy-736a3b359/",
+            "photo": "/imgs/pruthika.png"
+        }
+    ],
+
+    "Research": [
+        {
+            "name": "Anirudh Kaushik Guda",
+            "position": "Head",
+            "linkedin": "https://www.linkedin.com/in/anirudh-kaushik-965gk/",
+            "photo": "/imgs/anirudh.png"
+        },
+        {
+            "name": "Dommata Vishweshwar Goud",
+            "position": "Head",
+            "linkedin": "https://www.linkedin.com/in/vishweshwar-d-4735622a6/",
+            "photo": "/imgs/vishweshwar.png"
+        },
+        {
+            "name": "Yeshwanth Pullur",
+            "position": "Deputy Head 1",
+            "linkedin": "https://www.linkedin.com/in/yeshwanth-pullur-b13621378/",
+            "photo": "/imgs/yeshwanth.png"
+        },
+        {
+            "name": "Prabhugari Sri Kruthi",
+            "position": "Deputy Head 1",
+            "linkedin": "https://www.linkedin.com/in/sri-kruthi-prabhugari-69b96a316/",
+            "photo": "/imgs/kruthi.png"
+        },
+        {
+            "name": "Akshitha Gummadi",
+            "position": "Deputy Head 1",
+            "linkedin": "https://www.linkedin.com/in/gummadi-akshitha-aa3642219/",
+            "photo": "/imgs/akshitha.png"
+        },
+        {
+            "name": "Laasyasri Lakkepuram",
+            "position": "Deputy Head 1",
+            "linkedin": "https://www.linkedin.com/in/laasyasri-lakkepuram-4a40582b7",
+            "photo": "/imgs/laasya.png"
+        },
+        {
+            "name": "Saiteja Reddy Pinnapureddy",
+            "position": "Deputy Head 1",
+            "linkedin": "https://linkedin.com",
+            "photo": "/imgs/saiteja.png"
+        }
+    ],
+
+    "Management": [
+        {
+            "name": "Grace Kripalini Gollaboina",
+            "position": "Head",
+            "linkedin": "https://www.linkedin.com/in/grace-kripalini-b66074337/",
+            "photo": "/imgs/grace.png"
+        },
+        {
+            "name": "Rondla Sahasra Reddy",
+            "position": "Head",
+            "linkedin": "https://www.linkedin.com/in/sahasrareddyrondla06?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+            "photo": "/imgs/sahasra.png"
+        },
+        {
+            "name": "Gattupalli Bhuvan Balaji",
+            "position": "Deputy Head 2",
+            "linkedin": "https://www.linkedin.com/in/bhuvan-balaji-048136335/",
+            "photo": "/imgs/bhuvan.png"
+        },
+        {
+            "name": "Sirnam Sai Rithwik",
+            "position": "Deputy Head 2",
+            "linkedin": "https://www.linkedin.com/in/sai-rithwik-sirnam-8a3570320",
+            "photo": "/imgs/rithwik-dep.png"
+        },
+        {
+            "name": "P.Naga Sharvani",
+            "position": "Deputy Head 2",
+            "linkedin": "https://www.linkedin.com/in/nagasharvani27/",
+            "photo": "/imgs/sharvani.png"
+        },
+        {
+            "name": "Sreeja Reddy",
+            "position": "Deputy Head 2",
+            "linkedin": "https://www.linkedin.com/in/gorlasreeja-reddy-65689a375",
+            "photo": "/imgs/sreeja.png"
+        }
+    ],
+
+    "Design": [
+        {
+            "name": "Sai Vignesh Balabhadra",
+            "position": "Head",
+            "linkedin": "https://www.linkedin.com/in/sai-vignesh-balabhadra-433a36301/",
+            "photo": "/imgs/vignesh.png"
+        },
+        {
+            "name": "Jalagam Hasini",
+            "position": "Head",
+            "linkedin": "https://www.linkedin.com/in/hasini-jalagam",
+            "photo": "/imgs/hasini.png"
+        },
+        {
+            "name": "B Keshav Bhandari",
+            "position": "Deputy Head 2",
+            "linkedin": "https://www.linkedin.com/in/keshav-bhandari06/",
+            "photo": "/imgs/keshav.png"
+        },
+        {
+            "name": "K. Lalith Adithya",
+            "position": "Deputy Head 2",
+            "linkedin": "https://linkedin.com",
+            "photo": "/imgs/lalith.png"
+        },
+        {
+            "name": "B.V.R.S.S. Sruti",
+            "position": "Deputy Head 2",
+            "linkedin": "https://www.linkedin.com/in/sruti-billa-075949332/",
+            "photo": "/imgs/sruti.png"
+        },
+        {
+            "name": "Pyata Sai Pranathi",
+            "position": "Deputy Head 2",
+            "linkedin": "https://www.linkedin.com/in/sai-pranathi-p-b42497306/",
+            "photo": "/imgs/pranathi.png"
+        }
+    ],
+
+    "Publicity": [
+        {
+            "name": "Keerthi Reddy Gangu",
+            "position": "Head",
+            "linkedin": "https://www.linkedin.com/in/keerthireddygangu/",
+            "photo": "/imgs/keerthi.png"
+        },
+        {
+            "name": "Vasisht Sai Boreddy",
+            "position": "Head",
+            "linkedin": "https://www.linkedin.com/in/vasisht-sai-boreddy-38b7012b4?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+            "photo": "/imgs/vasisht.png"
+        },
+        {
+            "name": "K.Niharika",
+            "position": "Deputy Head 2",
+            "linkedin": "https://linkedin.com",
+            "photo": "/imgs/niharika.png"
+        },
+        {
+            "name": "M. Sai Pranav Balaji",
+            "position": "Deputy Head 2",
+            "linkedin": "https://www.linkedin.com/in/pranav-manthripragada-5a6472373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+            "photo": "/imgs/pranav.png"
+        },
+        {
+            "name": "Rafah Khatoon",
+            "position": "Deputy Head 2",
+            "linkedin": "https://www.linkedin.com/in/rafahkhatoon/",
+            "photo": "/imgs/rafah.png"
+        },
+        {
+            "name": "Sai Nikhila",
+            "position": "Deputy Head 2",
+            "linkedin": "https://www.linkedin.com/in/sai-nikhila-bharatula-b45150374/",
+            "photo": "/imgs/nikhila.png"
+        }
+    ]
+}
