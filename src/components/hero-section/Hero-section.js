@@ -130,7 +130,7 @@ export default function Hero(){
                     <div>
                         <div className="h-[250px] sm:h-[250px] md:h-[300px] xl:h-[500px] relative w-full">
                             <Image
-                            src={'/RoboWars.png'}
+                            src={'/Robowars.png'}
                             alt=''
                             fill
                             className="object-cover"/>
