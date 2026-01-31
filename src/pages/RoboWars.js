@@ -134,7 +134,7 @@ export default function RoboWars() {
               <div className="flex items-center gap-3 sm:gap-4 md:gap-5 lg:gap-6 flex-row lg:flex-row-reverse text-left lg:text-right">
                 <Image src="/dimensions.png" alt="size" width={100} height={100} className="w-16 h-16 sm:w-20 sm:h-20 md:w-24 md:h-24 lg:w-[100px] lg:h-[100px]" />
                 <p className="exo-2-regular text-sm sm:text-base md:text-lg lg:text-xl max-w-sm">
-                  SIZE: 30cm x 30cm x 30cm 
+                  SIZE: unrestricted
                 </p>
               </div>
               <div className="flex items-center gap-3 sm:gap-4 md:gap-5 lg:gap-6 flex-row lg:flex-row-reverse text-left lg:text-right">

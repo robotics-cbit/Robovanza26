@@ -88,8 +88,8 @@ export default function RoboRover() {
           Quick Details
         </h2>
         <ul className="max-w-4xl mx-auto space-y-3 sm:space-y-4 md:space-y-5 lg:space-y-6 text-base sm:text-lg md:text-xl lg:text-2xl exo-2-regular list-disc list-inside bg-darkblue-20 p-4 sm:p-6 md:p-8 rounded-lg border-2 sm:border-3 md:border-4 lg:border-5 border-white/30">
-          <li>FORMAT: Free for all</li>
-          <li>TEAM SIZE: 2 members per side</li>
+          <li>FORMAT: Round 1 - Time based, Round 2 - 1v1 race</li>
+          <li>TEAM SIZE: 4 members maximum</li>
           <li>TERRAIN: A mix of slopes, obstacles, curves, etc.</li>
           <li>WIN CONDITION: Traverse through the course in the lowest time period</li>
           <li>DRONES: Not allowed (only rovers are permitted)</li>
@@ -148,13 +148,13 @@ export default function RoboRover() {
               <div className="flex items-center gap-3 sm:gap-4 md:gap-5 lg:gap-6 flex-row lg:flex-row-reverse text-left lg:text-right">
                 <Image src="/dimensions.png" alt="size" width={100} height={100} className="w-16 h-16 sm:w-20 sm:h-20 md:w-24 md:h-24 lg:w-[100px] lg:h-[100px]" />
                 <p className="exo-2-regular text-sm sm:text-base md:text-lg lg:text-xl max-w-sm">
-                  SIZE: 30cm x 30cm x 30cm
+                  SIZE: 31cm x 31cm x 31cm
                 </p>
               </div>
               <div className="flex items-center gap-3 sm:gap-4 md:gap-5 lg:gap-6 flex-row lg:flex-row-reverse text-left lg:text-right">
                 <Image src="/weight.png" alt="weight" width={100} height={100} className="w-16 h-16 sm:w-20 sm:h-20 md:w-24 md:h-24 lg:w-[100px] lg:h-[100px]" />
                 <p className="exo-2-regular text-sm sm:text-base md:text-lg lg:text-xl max-w-sm">
-                  WEIGHT: 5kg maximum
+                  WEIGHT: 4kg maximum
                 </p>
               </div>
               <div className="flex items-center gap-3 sm:gap-4 md:gap-5 lg:gap-6 flex-row lg:flex-row-reverse text-left lg:text-right">

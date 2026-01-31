@@ -130,7 +130,7 @@ export default function Hero(){
                     <div>
                         <div className="h-[250px] sm:h-[250px] md:h-[300px] xl:h-[500px] relative w-full">
                             <Image
-                            src={'/RoboWars.png'}
+                            src={'/Robowars.png'}
                             alt=''
                             fill
                             className="object-cover"/>
@@ -151,19 +151,19 @@ export default function Hero(){
                                     </div>
                                     <div className="flex flex-row max-lg:hidden justify-between gap-4 p-4  pt-0 text-sm sm:text-base">
                                         <div className="pl-5">
-                                            <div className="pb-1 font-semibold">Prize Pool of Pool of</div>
+                                            <div className="pb-1 font-semibold">Prize Pool:</div>
                                             <div>₹ 50,000</div>
                                         </div>
 
                                         <div>
-                                            <div className="pb-1 font-semibold">Team Size</div>
+                                            <div className="pb-1 font-semibold">Team Size:</div>
                                             <div>No limit (3 near arena)</div>
                                         </div>
 
                                         <div className="pr-5">
-                                            <div className="pb-1 font-semibold">Robot Specifications</div>
+                                            <div className="pb-1 font-semibold">Robot Specifications:</div>
                                             <div>
-                                                30cm cube<br />
+                                                Dimensions are unrestricted<br />
                                                 3lbs weight<br />
                                                 <span className="max-xl:hidden">Wired/Wireless</span>
                                             </div>
@@ -214,19 +214,19 @@ export default function Hero(){
                                     </div>
                                     <div className="flex flex-row max-lg:hidden justify-between gap-4 p-4  pt-0 text-sm sm:text-base">
                                         <div className="pl-5">
-                                            <div className="pb-1 font-semibold">Prize Pool of</div>
+                                            <div className="pb-1 font-semibold">Prize Pool:</div>
                                             <div>₹ 20,000</div>
                                         </div>
 
                                         <div>
-                                            <div className="pb-1 font-semibold">Team Size</div>
+                                            <div className="pb-1 font-semibold">Team Size:</div>
                                             <div>No limit (4 near arena)</div>
                                         </div>
 
                                         <div className="pr-5">
-                                            <div className="pb-1 font-semibold">Robot Specifications</div>
+                                            <div className="pb-1 font-semibold">Robot Specifications:</div>
                                             <div>
-                                                30cm cube<br />
+                                                30cm x 30cm x 30cm<br />
                                                 5kg maximum<br />
                                                 <span className="max-xl:hidden">Wired/Wireless</span>
                                             </div>
@@ -277,19 +277,19 @@ export default function Hero(){
                                     </div>
                                     <div className="flex flex-row max-lg:hidden justify-between gap-4 p-4  pt-0 text-sm sm:text-base">
                                         <div className="pl-5">
-                                            <div className="pb-1 font-semibold">Prize Pool of</div>
+                                            <div className="pb-1 font-semibold">Prize Pool:</div>
                                             <div>₹ 20,000</div>
                                         </div>
 
                                         <div>
-                                            <div className="pb-1 font-semibold">Team Size</div>
+                                            <div className="pb-1 font-semibold">Team Size:</div>
                                             <div>No limit (3 near arena)</div>
                                         </div>
 
                                         <div className="pr-5">
-                                            <div className="pb-1 font-semibold">Robot Specifications</div>
+                                            <div className="pb-1 font-semibold">Robot Specifications:</div>
                                             <div>
-                                                30cm cube<br />
+                                                30cm x 30cm x 30cm<br />
                                                 5kg maximum<br />
                                                 <span className="max-xl:hidden">Wired/Wireless</span>
                                             </div>
@@ -340,19 +340,19 @@ export default function Hero(){
                                     </div>
                                     <div className="flex flex-row max-lg:hidden justify-between gap-4 p-4  pt-0 text-sm sm:text-base">
                                         <div className="pl-5">
-                                            <div className="pb-1 font-semibold">Prize Pool of</div>
+                                            <div className="pb-1 font-semibold">Prize Pool:</div>
                                             <div>₹ 12,000</div>
                                         </div>
 
                                         <div>
-                                            <div className="pb-1 font-semibold">Team Size</div>
+                                            <div className="pb-1 font-semibold">Team Size:</div>
                                             <div>No limit (2 near arena)</div>
                                         </div>
 
                                         <div className="pr-5">
-                                            <div className="pb-1 font-semibold">Robot Specifications</div>
+                                            <div className="pb-1 font-semibold">Robot Specifications:</div>
                                             <div>
-                                                31cm cube<br />
+                                                31cm x 31cm x 31cm <br />
                                                 4kg maximum<br />
                                                 <span className="max-xl:hidden">Wired/Wireless</span>
                                             </div>
@@ -403,19 +403,19 @@ export default function Hero(){
                                     </div>
                                     <div className="flex flex-row max-lg:hidden justify-between gap-4 p-4  pt-0 text-sm sm:text-base">
                                         <div className="pl-5">
-                                            <div className="pb-1 font-semibold">Prize Pool of</div>
+                                            <div className="pb-1 font-semibold">Prize Pool:</div>
                                             <div>₹ 12,000</div>
                                         </div>
 
                                         <div>
-                                            <div className="pb-1 font-semibold">Team Size</div>
+                                            <div className="pb-1 font-semibold">Team Size:</div>
                                             <div>No limit (2 near arena)</div>
                                         </div>
 
                                         <div className="pr-5">
-                                            <div className="pb-1 font-semibold">Robot Specifications</div>
+                                            <div className="pb-1 font-semibold">Robot Specifications:</div>
                                             <div>
-                                                30cm cube<br />
+                                                30cm x 30cm x 30cm<br />
                                                 Autonomous only
                                             </div>
                                         </div>
@@ -465,12 +465,12 @@ export default function Hero(){
                                     </div>
                                     <div className="flex flex-row max-lg:hidden justify-between gap-4 p-4  pt-0 text-sm sm:text-base">
                                         <div className="pl-5">
-                                            <div className="pb-1 font-semibold">Prize Pool of</div>
+                                            <div className="pb-1 font-semibold">Prize Pool:</div>
                                             <div>₹ 7,500</div>
                                         </div>
 
                                         <div>
-                                            <div className="pb-1 font-semibold">Team Size</div>
+                                            <div className="pb-1 font-semibold">Team Size:</div>
                                             <div>2-4 members</div>
                                         </div>
 
