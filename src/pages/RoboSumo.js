@@ -26,10 +26,11 @@ export default function RoboSumo() {
 
         <div className="flex justify-center pb-6 sm:pb-8 md:pb-10 px-4">
           <Link
-            href="/register"
+            href="https://forms.gle/nyHcV1cd6skRVfBNA"
+            target="_blank"
             className="exo-2-bold bg-darkblue text-white text-lg sm:text-xl md:text-2xl lg:text-3xl px-4 py-2 sm:px-5 sm:py-2.5 md:px-6 md:py-3 rounded-md hover:bg-blue-800 transition"
           >
-            REGISTRATIONS OPEN SOON →
+            REGISTER NOW →
           </Link>
         </div>
       </section>
