@@ -108,7 +108,7 @@ export default function RoboWars() {
               <div className="flex items-center gap-3 sm:gap-4 md:gap-5 lg:gap-6">
                 <Image src="/weapons.png" alt="weapons" width={100} height={100} className="w-16 h-16 sm:w-20 sm:h-20 md:w-24 md:h-24 lg:w-[100px] lg:h-[100px]" />
                 <p className="exo-2-regular text-sm sm:text-base md:text-lg lg:text-xl max-w-sm">
-                  WEAPONS: Spinners & Wedges only
+                  WEAPONS: Spinners, Wedges & Lifters only
                 </p>
               </div>
               <div className="flex items-center gap-3 sm:gap-4 md:gap-5 lg:gap-6">
