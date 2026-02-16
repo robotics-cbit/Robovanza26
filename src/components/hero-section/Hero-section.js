@@ -5,6 +5,7 @@ import CountdownTimer from "./CountdownTimer"
 import Particles from "./Particles"
 import RippleGrid from "./RippleGrid"
 import LightRays from "./LightRays"
+import LiveMarquee from "@/components/LiveMarquee";
 
 export default function Hero(){
     
@@ -25,7 +26,7 @@ export default function Hero(){
                         outerVignette={true}
                         smooth={true}
                     /> */}
-                    <div className="w-screen h-[60vh] md:h-[1080px] relative">
+                    <div className="w-screen h-[90vh] md:h-[1080px] relative">
                         <LightRays
                             raysOrigin="top-center"
                             raysColor="#ffffff"
@@ -42,23 +43,24 @@ export default function Hero(){
                         />
                     </div>
                 </div>
-                <div className="relative z-10 flex flex-col justify-center items-center h-[90vh] px-4 text-white bg-darkblue/60">
+                <div className="relative z-10 flex flex-col justify-center items-center h-[90vh] text-white bg-darkblue/60">
                     <div className="max-sm:text-4xl max-md:text-5xl md:text-6xl text-bold text-center bruno-ace-sc">ROBOVANZA 9.0</div>
                     <div className="text-2xl text-center font-Exo2  font-light font-stretch-ultra-expanded">17th and 18th February 2026</div>
                     
                     {/* Countdown Timer */}
-                    <CountdownTimer targetDate="2026-02-17T00:00:00" />
+                    {/* <CountdownTimer targetDate="2026-02-17T00:00:00" /> */}
 
                     <div className="text-lg sm:text-2xl text-center mt-5 mb-5 uppercase font-Exo2">Flagship event by Robotics and Innovation Club CBIT</div>
                     {/* <hr className="border-2 border-white"></hr> */}
-                    <div className="flex font-Exo2 flex-row justify-between text-base sm:text-xl mt-3 mb-3 uppercase border-t-3 border-white p-5">
+                    <div className="flex font-Exo2 flex-row justify-between text-base sm:text-xl mt-3 mb-3 uppercase border-t-3 border-white p-5 pb-30">
                         <div className="sm:ml-14 max-sm:text-center border-r-3 border-white pr-3 transition-transform duration-200 ease-in-out hover:scale-105">
-                            <Link href='https://forms.gle/nyHcV1cd6skRVfBNA' target="_blank">Register Now</Link>
+                            <Link href='https://forms.gle/nyHcV1cd6skRVfBNA' target="_blank">Registration closed</Link>
                         </div>
                         <div className="sm:mr-14 max-sm:text-center border-l-3 border-white pl-3 transition-transform duration-200 ease-in-out hover:scale-105">
                             <Link href='#Events'>Explore Events</Link>
                         </div>
                     </div>
+                    <LiveMarquee/>
                 </div>
             </section>
             <div className="p-5 px-5 py-2 relative">
@@ -74,7 +76,7 @@ export default function Hero(){
                         disableRotation={false}
                     />
                 </div>
-                <div className="flex flex-col lg:flex-row ">
+                <div className="flex flex-col lg:flex-row">
                     <div className="m-2 px-4 lg:pl-10 lg:pr-10 w-full lg:w-1/2 pl-0">
                         <div className="text-xl font-Exo2 font-bold text-center p-2">What is Robovanza?</div>
                         <div className="text-sm md:text-base text-justify leading-relaxed p-2 ">
