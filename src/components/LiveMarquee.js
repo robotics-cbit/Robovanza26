@@ -3,8 +3,8 @@ import Link from "next/link";
 
 export default function EventTicker() {
     const items = [
-        // "Click here to check Live Match Updates",
-        "Hurry! On Spot Registration open till 11am",
+        "Click here to check Live Match Updates",
+        // "Hurry! On Spot Registration open till 11am",
     ];
 
     const repeated = Array(6).fill(items).flat();
@@ -13,8 +13,8 @@ export default function EventTicker() {
                 <div className="ticker">
                     <div className="track">
                         {repeated.map((text, i) => (
-                            // <span key={i} className="item"><Link href="/Leaderboard">{text}</Link></span> //for leaderboard
-                            <span key={i} className="item">{text}</span>
+                            <span key={i} className="item"><Link href="/Leaderboard">{text}</Link></span> //for leaderboard
+                            // <span key={i} className="item">{text}</span>
                         ))}
                     </div>
         
