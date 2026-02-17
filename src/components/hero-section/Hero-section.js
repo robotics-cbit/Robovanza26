@@ -54,7 +54,7 @@ export default function Hero(){
                     {/* <hr className="border-2 border-white"></hr> */}
                     <div className="flex font-Exo2 flex-row justify-between text-base sm:text-xl mt-3 mb-3 uppercase border-t-3 border-white p-5 pb-30">
                         <div className="sm:ml-14 max-sm:text-center border-r-3 border-white pr-3 transition-transform duration-200 ease-in-out hover:scale-105">
-                            <Link href='https://forms.gle/nyHcV1cd6skRVfBNA' target="_blank">Registration Closed</Link>
+                            <Link href='/' target="_blank">Registration Closed</Link>
                         </div>
                         <div className="sm:mr-14 max-sm:text-center border-l-3 border-white pl-3 transition-transform duration-200 ease-in-out hover:scale-105">
                             <Link href='#Events'>Explore Events</Link>
