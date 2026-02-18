@@ -87,6 +87,9 @@ export default function Home(){
                             </thead>
                             <tbody>
                                 <tr className="hover:bg-white/10 active:bg-white/15 transition-colors duration-200">
+                                    <td colSpan={4} >Round 1</td>
+                                </tr>
+                                <tr className="hover:bg-white/10 active:bg-white/15 transition-colors duration-200">
                                     <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base text-center">1</td>
                                     <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base truncate">Imec-2</td>
                                     <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base truncate">Draco botz</td>
@@ -150,7 +153,34 @@ export default function Home(){
                                     <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base text-center">11</td>
                                     <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base truncate">Hydrabotz-Anudeep</td>
                                     <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base truncate">DS Robotics-1</td>
-                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base font-bold text-yellow-400 truncate">Hydrabotz-Anudee</td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base font-bold text-yellow-400 truncate">Hydrabotz-Anudeep</td>
+                                </tr>
+                                <tr className="hover:bg-white/10 active:bg-white/15 transition-colors duration-200">
+                                    <td colSpan={4} >Round 2</td>
+                                </tr>
+                                <tr className="hover:bg-white/10 active:bg-white/15 transition-colors duration-200">
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base text-center">12</td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base truncate">DS Robotics-1 </td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base truncate">Hydrabotz-Anudeep</td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base font-bold text-yellow-400 truncate">Hydrabotz-Anudeep</td>
+                                </tr>
+                                <tr className="hover:bg-white/10 active:bg-white/15 transition-colors duration-200">
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base text-center">13</td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base truncate">Imec-1 </td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base truncate">Technobots</td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base font-bold text-yellow-400 truncate">Imec-1</td>
+                                </tr>
+                                <tr className="hover:bg-white/10 active:bg-white/15 transition-colors duration-200">
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base text-center">14</td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base truncate">Mech Fusion </td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base truncate">Titanbotz</td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base font-bold text-yellow-400 truncate">Titanbotz</td>
+                                </tr>
+                                <tr className="hover:bg-white/10 active:bg-white/15 transition-colors duration-200">
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base text-center">15</td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base truncate">Hydrobotz-Anudeep</td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base truncate">Titanbotz-2</td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base font-bold text-yellow-400 truncate">Titanbotz-2</td>
                                 </tr>
                             </tbody>
                         </table>
