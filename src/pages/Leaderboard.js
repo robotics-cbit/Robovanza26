@@ -111,7 +111,7 @@ export default function Home(){
                             </thead>
                             <tbody>
                                 <tr className="hover:bg-white/10 active:bg-white/15 transition-colors duration-200">
-                                    <td colSpan={4} >Round 1</td>
+                                    <td colSpan={4} className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-xl text-center">Round 1</td>
                                 </tr>
                                 <tr className="hover:bg-white/10 active:bg-white/15 transition-colors duration-200">
                                     <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base text-center">1</td>
@@ -180,7 +180,7 @@ export default function Home(){
                                     <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base font-bold text-yellow-400 truncate">Hydrabotz-Anudeep</td>
                                 </tr>
                                 <tr className="hover:bg-white/10 active:bg-white/15 transition-colors duration-200">
-                                    <td colSpan={4} >Round 2</td>
+                                    <td colSpan={4} className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-xl text-center">Round 2</td>
                                 </tr>
                                 <tr className="hover:bg-white/10 active:bg-white/15 transition-colors duration-200">
                                     <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base text-center">12</td>
