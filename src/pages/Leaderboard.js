@@ -24,14 +24,89 @@ export default function Home(){
                             </thead>
                             <tbody>
                                 <tr className="hover:bg-white/10 active:bg-white/15 transition-colors duration-200">
-                                    <td colSpan={4} className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-xl text-center">Awaiting Match Results</td>
+                                    <td colSpan={4} className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-xl text-center">Round 1</td>
                                 </tr>
-                                {/* <tr className="hover:bg-white/10 active:bg-white/15 transition-colors duration-200">
+                                <tr className="hover:bg-white/10 active:bg-white/15 transition-colors duration-200">
                                     <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base text-center">1</td>
-                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base truncate">Team A1</td>
-                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base truncate">Team B1</td>
-                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base font-bold text-yellow-400 truncate">Team A1</td>
-                                </tr> */}
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base truncate">Thriveforce-2</td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base truncate">Imec-2</td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base font-bold text-yellow-400 truncate">Thriveforce-2</td>
+                                </tr>
+                                <tr className="hover:bg-white/10 active:bg-white/15 transition-colors duration-200">
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base text-center">2</td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base truncate">Hydrobotz-Achyuth</td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base truncate">Thriveforce-1</td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base font-bold text-yellow-400 truncate">Hydrobotz-Achyuth</td>
+                                </tr>
+                                <tr className="hover:bg-white/10 active:bg-white/15 transition-colors duration-200">
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base text-center">3</td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base truncate">DS Robotics</td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base truncate">Hydrobotz-Goutham</td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base font-bold text-yellow-400 truncate">DS Robotics</td>
+                                </tr>
+                                <tr className="hover:bg-white/10 active:bg-white/15 transition-colors duration-200">
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base text-center">4</td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base truncate">DS Robotics</td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base truncate">Triobotx</td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base font-bold text-yellow-400 truncate">DS Robotics</td>
+                                </tr>
+                                <tr className="hover:bg-white/10 active:bg-white/15 transition-colors duration-200">
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base text-center">5</td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base truncate">Imec-1</td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base truncate">ESC</td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base font-bold text-yellow-400 truncate">ESC</td>
+                                </tr>
+                                <tr className="hover:bg-white/10 active:bg-white/15 transition-colors duration-200">
+                                    <td colSpan={4} className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-xl text-center">Round 1</td>
+                                </tr>
+                                <tr className="hover:bg-white/10 active:bg-white/15 transition-colors duration-200">
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base text-center">6</td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base truncate">Hydrabotz-1</td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base truncate">Hydrabotz-2</td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base font-bold text-yellow-400 truncate">Hydrabotz-1</td>
+                                </tr>
+                                <tr className="hover:bg-white/10 active:bg-white/15 transition-colors duration-200">
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base text-center">7</td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base truncate">Thriveforce-2</td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base truncate">Hydrabotz-Prashanth</td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base font-bold text-yellow-400 truncate">Thriveforce-2</td>
+                                </tr>
+                                <tr className="hover:bg-white/10 active:bg-white/15 transition-colors duration-200">
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base text-center">8</td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base truncate">ESC</td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base truncate">Hydrabotz-5</td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base font-bold text-yellow-400 truncate">ESC</td>
+                                </tr>
+                                <tr className="hover:bg-white/10 active:bg-white/15 transition-colors duration-200">
+                                    <td colSpan={4} className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-xl text-center">Round 3</td>
+                                </tr>
+                                <tr className="hover:bg-white/10 active:bg-white/15 transition-colors duration-200">
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base text-center">9</td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base truncate">Hydrabotz-1</td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base truncate">Thriveforce-2</td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base font-bold text-yellow-400 truncate">Hydrabotz-1</td>
+                                </tr>
+                                <tr className="hover:bg-white/10 active:bg-white/15 transition-colors duration-200">
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base text-center">10</td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base truncate">ESC</td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base truncate">DS Robotics</td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base font-bold text-yellow-400 truncate">DS Robotics</td>
+                                </tr>
+                                <tr className="hover:bg-white/10 active:bg-white/15 transition-colors duration-200">
+                                    <td colSpan={4} className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-xl text-center">Finals</td>
+                                </tr>
+                                <tr className="hover:bg-white/10 active:bg-white/15 transition-colors duration-200">
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base text-center">11</td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base truncate">DS Robotics</td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base truncate">Hydrabotz-1</td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base font-bold text-yellow-400 truncate">DS Robotics</td>
+                                </tr>
+                                <tr className="hover:bg-white/10 active:bg-white/15 transition-colors duration-200">
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base text-center">11</td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base truncate">ESC</td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base truncate">Thriveforce-2</td>
+                                    <td className="border border-gray-600 p-1 sm:p-2 md:p-3 lg:p-4 text-[10px] sm:text-xs md:text-sm lg:text-base font-bold text-yellow-400 truncate">ESC</td>
+                                </tr>
                             </tbody>
                         </table>
                     </div>
